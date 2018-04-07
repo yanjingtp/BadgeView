@@ -9,8 +9,6 @@ import android.widget.RelativeLayout;
 import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
-
-
     private TextView tv;
 
     @Override
